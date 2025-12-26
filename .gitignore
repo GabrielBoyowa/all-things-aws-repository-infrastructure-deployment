@@ -5,6 +5,9 @@
 *.tfstate
 *.tfstate.*
 
+# Dependency lock file
+.terraform.lock.hcl
+
 # Backend and Version constraints (The files you want to keep local only)
 versions.tf
  backend.tf  
