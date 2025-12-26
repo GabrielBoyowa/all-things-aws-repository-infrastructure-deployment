@@ -5,6 +5,10 @@
 *.tfstate
 *.tfstate.*
 
+# Backend and Version constraints (The files you want to keep local only)
+versions.tf
+ backend.tf  
+
 # Crash logs
 crash.log
 
