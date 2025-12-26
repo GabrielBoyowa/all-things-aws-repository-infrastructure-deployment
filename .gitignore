@@ -1,0 +1,17 @@
+# Local terraform directory (contains binaries and modules)
+.terraform/
+
+# State files (should be in S3, not Git)
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+
+# Sensitive variable files
+*.tfvars
+*.tfvars.json
+
+# Override files
+override.tf
+override.tf.json
