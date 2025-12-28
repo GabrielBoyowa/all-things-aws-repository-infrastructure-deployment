@@ -1,3 +1,4 @@
+
 # Local terraform directory (contains binaries and modules)
 .terraform/
 
@@ -10,7 +11,7 @@
 
 # Backend and Version constraints (The files you want to keep local only)
 versions.tf
- backend.tf  
+backend.tf  
 
 # Crash logs
 crash.log
