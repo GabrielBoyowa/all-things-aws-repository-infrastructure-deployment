@@ -1,25 +1,14 @@
-AWS Multi-Tier Cloud Deployment
-
-This repository is an implementation designed to push the boundaries of automated provisioning, with enfacy on CSPM benchmarks around cloud infrastructure. 
-The objective is to go "all out" by deploying a comprehensive range of AWS resources supported by Infrastructure as Code, spanning across IaaS, PaaS, and SaaS service models.
-
-Cloud Provider: Amazon Web Services (AWS)
-IaC Tool: Terraform
-
-Security & Compliance
-Encryption Strategy: By default, AWS-managed encryption is utilized for the majority of deployed resources. AWS KMS (Key Management Service) on specific resources to evaluate custom encryption workflows; or only where strictly necessary for architectural requirements.
-
-Visibility: Infrastructure is pre-configured for Amazon CloudWatch monitoring to ensure auditability.
+This repository serves as an Infrastructure as Code (IaC) showcase, demonstrating the implementation of security frameworks across a variety of AWS architectural patterns. Using Terraform, this project codifies industry-standard security guardrails for diverse environments—ranging from legacy monolithic three-tier setups to modern serverless and fully managed ecosystems.
 
 
-Standards & Compliance
-The deployments within this repository are architected to align with international security frameworks, including:
+The primary focus of this portfolio is to illustrate Cloud Security Posture Management (CSPM). 
+By exploring these modules, you can witness how automated compliance, monitoring and defensive in depth best practices are applied to core AWS pillars: Compute, Network, and Storage.
 
-ISO 27001: Information Security Management System (ISMS) alignment.
 
-HIPAA / PCI DSS: Baseline configurations follow security controls for sensitive data handling.
+Development Note: To maintain the security integrity of this showcase, all sensitive backend configuration files and environment metadata are excluded via .gitignore.
 
-NIST: Alignment with the Cybersecurity Framework for risk management.
+
+
 
 
 
