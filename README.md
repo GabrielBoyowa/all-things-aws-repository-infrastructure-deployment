@@ -58,3 +58,11 @@ ISO 27001: Information Security Management System (ISMS) alignment.
 HIPAA / PCI DSS: Baseline configurations follow security controls for sensitive data handling.
 
 NIST: Alignment with the Cybersecurity Framework for risk management.
+
+
+
+![Image Alt](https://github.com/GabrielBoyowa/all-things-aws-repository-infrastructure-deployment/blob/d8850b02a3ac27c31a582faece475893a700cd51/repo%20diagram.drawio.png)
+
+
+
+
