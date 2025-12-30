@@ -1,3 +1,14 @@
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900)
+![Infrastructure as Code](https://img.shields.io/badge/Practice-Infrastructure%20as%20Code-0A66C2)
+![Cloud Security](https://img.shields.io/badge/Focus-Cloud%20Security-D13212)
+![CSPM](https://img.shields.io/badge/Concept-CSPM-1D8102)
+
+
+
+
+
+
 This repository is an Infrastructure as Code (IaC) security showcase, demonstrating how 
 <span style="color:#D13212; font-weight:600;">robust, production-grade security frameworks</span> 
 can be embedded across a wide spectrum of AWS architectural patterns. Built with Terraform, the project translates 
