@@ -1,11 +1,23 @@
-This repository serves as an Infrastructure as Code (IaC) showcase, demonstrating the implementation of security frameworks across a variety of AWS architectural patterns. Using Terraform, this project codifies industry-standard security guardrails for diverse environments—ranging from legacy monolithic three-tier setups to modern serverless and fully managed ecosystems.
+This repository is an Infrastructure as Code (IaC) security showcase, demonstrating how 
+<span style="color:#D13212; font-weight:600;">robust, production-grade security frameworks</span> 
+can be embedded across a wide spectrum of AWS architectural patterns. Built with Terraform, the project translates 
+<span style="color:#D13212; font-weight:600;">industry-standard security guardrails</span> 
+into reusable, auditable code—spanning everything from legacy, monolithic three-tier architectures to modern serverless and fully managed cloud-native environments.
 
+<br><br>
 
-The primary focus of this portfolio is to illustrate Cloud Security Posture Management (CSPM). 
-By exploring these modules, you can witness how automated compliance, monitoring and defensive in depth best practices are applied to core AWS pillars: Compute, Network, and Storage.
+At its core, this portfolio highlights 
+<span style="color:#1D8102; font-weight:600;">Cloud Security Posture Management (CSPM)</span> 
+in action. Each module reveals how 
+<span style="color:#1D8102; font-weight:600;">automated compliance</span>, 
+<span style="color:#1D8102; font-weight:600;">continuous monitoring</span>, and 
+<span style="color:#1D8102; font-weight:600;">defence-in-depth best practices</span> 
+are systematically enforced across AWS’s foundational pillars: Compute, Network, and Storage.
 
+<br><br>
 
-Development Note: To maintain the security integrity of this showcase, all sensitive backend configuration files and environment metadata are excluded via .gitignore.
+<strong>Development Note:</strong> To preserve the security integrity of this showcase, all sensitive backend configurations and environment-specific metadata are deliberately excluded via <code>.gitignore</code>.
+
 
 
 
