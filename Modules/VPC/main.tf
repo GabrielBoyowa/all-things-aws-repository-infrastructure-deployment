@@ -13,7 +13,7 @@ resource "aws_vpc" "vpc" {
 
 
   tags = merge(
-    
+
     var.resource_tags,
 
     {

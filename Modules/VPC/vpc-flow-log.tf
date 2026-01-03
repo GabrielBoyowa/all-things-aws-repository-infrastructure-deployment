@@ -11,7 +11,7 @@ resource "aws_s3_bucket" "vpc_flow_logs_bucket" {
   force_destroy = true
 
   tags = merge(
-    
+
     var.resource_tags,
 
     {
