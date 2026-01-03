@@ -15,9 +15,7 @@ At its core, this portfolio highlights **Cloud Security Posture Management (CSPM
 
 
 
-
-
-![Image Alt](https://github.com/GabrielBoyowa/all-things-aws-repository-infrastructure-deployment/blob/6a0723d5707b77c5e5e56dec6a6760c66fbfab19/All-Things-AWS-Infra.drawio.svg)
+![Image Alt](https://github.com/GabrielBoyowa/all-things-aws-repository-infrastructure-deployment/blob/57cb5c01db206ee8835cd217d8e3af6c3272ea3f/All-Things-AWS-Infra-2.drawio%20(1).svg)
 
 
 
